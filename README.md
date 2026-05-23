@@ -1,4 +1,8 @@
-## Hi there 👋
+# Get Started 
+
+EmbEducate is a training kit for an easier embedded systems education course. 
+
+![EmbEducate V1.1.0 Training Board](./fig/EmbEducate_V1_1_0.png)
 
 <!--
 **EmbEducate/EmbEducate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
